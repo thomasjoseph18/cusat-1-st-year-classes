@@ -1,3 +1,5 @@
-gpa=float(input(enter the cgpa))
+gpa=float(input("enter the cgpa"))
 if gpa>2.0:
     print("Your application is accepted")
+else:
+    print("your application is rejected")
