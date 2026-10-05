@@ -1,4 +1,4 @@
 a=int(input("Enter the first digit"))
 b=int(input("Enter the second digit"))
-sum=a+b
-print (sum)
+average=(a+b)/2
+print (average)
