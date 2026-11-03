@@ -1,0 +1,5 @@
+x=eval(input("enter the tuple"))
+x=list(x)
+x.append(int(input("enter the number to be added")))
+x=tuple(x)
+print(x)
